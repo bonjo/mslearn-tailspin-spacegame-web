@@ -1,4 +1,5 @@
-[![Build Status](https://bonjo.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/bonjo.mslearn-tailspin-spacegame-web?branchName=master)](https://bonjo.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=4&branchName=master)
+
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=bonjo_mslearn-tailspin-spacegame-web&metric=alert_status)](https://sonarcloud.io/dashboard?id=bonjo_mslearn-tailspin-spacegame-web)[![Build Status](https://bonjo.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_apis/build/status/bonjo.mslearn-tailspin-spacegame-web?branchName=master)](https://bonjo.visualstudio.com/Space%20Game%20-%20web%20-%20Pipeline/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
